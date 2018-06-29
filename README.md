@@ -1,2 +1,9 @@
-# resume
-my resume
+# Mu001999's resume
+
+this is my resume, based on [this template](https://github.com/billryan/resume).
+
+#### [English Version](./resume.pdf)
+> [LaTeX Source](./resume.tex)
+
+#### [中文版](./resume-cn.pdf)
+> [LaTex 源码](./resume-cn.tex)
