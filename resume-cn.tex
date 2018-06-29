@@ -1,0 +1,92 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% !Mode:: "TeX:UTF-8"
+
+\documentclass{resume}
+\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
+%\usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage{cite}
+
+\begin{document}
+\pagenumbering{gobble} % suppress displaying page number
+
+\name{许博}
+
+\basicInfo{
+  \email{Mu001999@outlook.com} \textperiodcentered\ 
+  \phone{(+86) 130-5155-0366} \textperiodcentered\ 
+  \github[Mu001999]{https://github.com/MU001999}}
+ 
+\section{\faGraduationCap\  教育背景}
+\datedsubsection{\textbf{北京林业大学}, 北京}{2016 -- 至今}
+\textit{在读本科生}\ 网络工程, 预计 2020 年 6 月毕业
+
+\section{\faUsers\ 工作经历}
+\datedsubsection{\textbf{北京市威富安防科技有限公司}, 北京, 中国}{2017年7月 -- 2017年9月}
+\role{实习}{深度学习实习生}
+
+\section{\faGithubAlt\ 个人项目}
+\datedsubsection{\textbf{Ice Language}}{\url{https://github.com/MU001999/ice}}
+可扩展的解释型程序语言，符合图灵完备思想
+\begin{onehalfspacing}
+\begin{itemize}
+  \item 面向对象语言
+  \item 提供REPL(Read-eval-print-loop, 交互式解释器)
+  \item 基本实现自举，ColdIce(由Ice自举实现, https://github.com/MU001999/coldice)
+\end{itemize}
+\end{onehalfspacing}
+
+\datedsubsection{\textbf{CommonRegEx}}{\url{https://github.com/MU001999/commonregex}}
+使用NFA构造的扩展正则表达式引擎
+\begin{onehalfspacing}
+\begin{itemize}
+  \item 支持标准正则表达式语法
+  \item 支持正向/反向预查，匿名/命名捕获，命名检查等扩展语法
+  \item API风格良好，便于理解和使用
+\end{itemize}
+\end{onehalfspacing}
+
+\datedsubsection{\textbf{Blog}}{\url{https://github.com/MU001999/blog}}
+使用Bootstrap, Flask, MongoDB搭建的个人博客
+\begin{onehalfspacing}
+\begin{itemize}
+  \item 多用户登录，支持权限管理
+  \item 文章支持MD格式，代码高亮
+  \item 支持聊天室及论坛多人聊天
+\end{itemize}
+\end{onehalfspacing}
+
+% Reference Test
+%\datedsubsection{\textbf{Paper Title\cite{zaharia2012resilient}}}{May. 2015}
+%An xxx optimized for xxx\cite{verma2015large}
+%\begin{itemize}
+%  \item main contribution
+%\end{itemize}
+
+\section{\faCogs\ 技能}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.5ex]
+  \item 编程语言: 较为熟悉C++/Python, 亦能较快熟悉其它语言进行开发
+  \item 数据结构与算法: 掌握基本数据结构与算法知识，经常在CodeWars, Leetcode等网站刷题
+  \item 编译原理: 熟悉前端知识，后端优化亦有所涉及，了解类型推导、字节码优化等知识
+  \item 编辑器与IDE: 可以适应任何编辑器, 平时使用VS, VSCode
+\end{itemize}
+
+\section{\faHeartO\ 获奖情况}
+\datedline{\textit{华北赛区一等奖}, 全国大学生物联网设计竞赛（TI杯）}{2017年8月16日}
+
+\section{\faInfo\ 其他}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.5ex]
+  \item 博客: http://mu00.jusot.com
+  \item GitHub: https://github.com/mu001999
+  \item Codewars: https://www.codewars.com/users/mu001999
+  \item LeetCode: https://leetcode-cn.com/mu001999
+\end{itemize}
+
+%% Reference
+%\newpage
+%\bibliographystyle{IEEETran}
+%\bibliography{mycite}
+\end{document}
