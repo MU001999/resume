@@ -1,6 +1,6 @@
-# Mu001999's resume
+# My Resume
 
-this is my resume, based on [this template](https://github.com/billryan/resume).
+based on [this template](https://github.com/billryan/resume).
 
 <hr>
 
