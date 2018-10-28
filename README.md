@@ -1,4 +1,4 @@
-# My Resume
+# Résumé
 
 edit in https://www.overleaf.com, based on [this template](https://github.com/billryan/resume)
 
