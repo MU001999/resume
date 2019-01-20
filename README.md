@@ -22,6 +22,7 @@ edit in [overleaf](https://www.overleaf.com), based on [this template](https://g
 ## Try To Complete
 
 * [code to png](https://github.com/MU001999/code2png)
+* [easy to write](https://github.com/MU001999/ez2write)
 * [haskell to cpp](https://github.com/MU001999/hs2cpp)
 * [common html parser](https://github.com/MU001999/commonhtmlparser)
 * [code style conversion](https://github.com/MU001999/csc)
