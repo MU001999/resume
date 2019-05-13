@@ -23,7 +23,14 @@ edit in [overleaf](https://www.overleaf.com), based on [this template](https://g
 
 ## Project For Courses
 
-* [npcp](https://github.com/Jusot/npcp)
+* [npcp](https://github.com/Jusot/npcp), for *Network Programming*
+* [puefinal](https://github.com/MU001999/puefinal), for *Programming in the UNIX Environment*
+* [finalcourse](https://github.com/SLXdatabase/finalcourse), for *Database Course*
+
+## Exercises
+
+* [codeex](https://github.com/MU001999/codeex)
+* [simple cdecl](https://github.com/MU001999/simple_cdecl)
 
 ## Maybe In Future
 
