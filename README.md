@@ -22,6 +22,11 @@ Edit in [overleaf](https://www.overleaf.com), based on [this template](https://g
 * [yet another lexical analyzar](https://github.com/MU001999/yala)
 * [yet another regular expression](https://github.com/MU001999/yare), supports(spec) UTF-8
 
+## Exercises
+
+* [codeex](https://github.com/MU001999/codeex)
+* [simple cdecl](https://github.com/MU001999/simple_cdecl)
+
 ## Implemented With Others
 
 ### Libs
@@ -35,11 +40,6 @@ Edit in [overleaf](https://www.overleaf.com), based on [this template](https://g
 * [cnscp](https://github.com/Jusot/cnscp), for *Computer Network Security*
 * [puefinal](https://github.com/MU001999/puefinal), for *Programming in the UNIX Environment*
 * [finalcourse](https://github.com/SLXdatabase/finalcourse), for *Database Course*
-
-## Exercises
-
-* [codeex](https://github.com/MU001999/codeex)
-* [simple cdecl](https://github.com/MU001999/simple_cdecl)
 
 ## Maybe In Future
 
