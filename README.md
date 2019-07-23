@@ -21,6 +21,7 @@ Edit in [overleaf](https://www.overleaf.com), based on [this template](https://g
 * [common regular expression](https://github.com/MU001999/commonregex)
 * [yet another lexical analyzar](https://github.com/MU001999/yala)
 * [yet another regular expression](https://github.com/MU001999/yare), supports(spec) UTF-8
+* [ltxxx](https://github.com/MU001999/ltxxx), parser for latex math expressions
 
 ## Exercises
 
