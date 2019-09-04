@@ -1,6 +1,6 @@
 # Résumé
 
-Edit in [overleaf](https://www.overleaf.com), based on [this template](https://github.com/billryan/resume)
+Edit on [overleaf](https://www.overleaf.com), based on [this template](https://github.com/billryan/resume)
 
 <hr>
 
