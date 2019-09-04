@@ -6,9 +6,11 @@ Edit in [overleaf](https://www.overleaf.com), based on [this template](https://g
 
 #### [English Version](./resume.pdf)
 > [LaTeX Source](./resume.tex)
+> [Markdown](./resume.md)
 
 #### [中文版](./resume-cn.pdf)
 > [LaTex 源码](./resume-cn.tex)
+> [Markdown](./resume-cn.md)
 
 <hr>
 
