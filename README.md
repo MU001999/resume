@@ -8,13 +8,9 @@ Based on [this template](https://github.com/billryan/resume)
 
 > [LaTeX Source](./resume.tex)
 
-> [Markdown](./resume.md)
-
 #### [中文版](./resume-cn.pdf)
 
 > [LaTex 源码](./resume-cn.tex)
-
-> [Markdown](./resume-cn.md)
 
 <hr>
 
