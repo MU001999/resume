@@ -27,35 +27,35 @@
 \role{实习}{系统开发}
 
 \section{\faGithubAlt\ 个人项目}
-\datedsubsection{\textbf{Ice Language}}{\url{https://github.com/ice-lang/ice}}
-\role{编程语言, 自举, REPL, JIT}{}
+\datedsubsection{\textbf{Ice Programming Language}}{\url{https://github.com/ice-lang/ice-lang}}
+\role{编程语言, 虚拟机, REPL, 闭包, call/cc}{}
 \begin{onehalfspacing}
-\textbf{项目介绍: } 解释型面向对象程序语言，符合图灵完备思想, 已自举, 提供 REPL ( Read-eval-print-loop, 交互式解释器), 提供丰富的内建类型, 如 map, list 等, 支持运行时 JIT 加速
+\textbf{项目介绍: } 解释型程序语言，图灵完备, 提供 REPL ( Read-eval-print-loop, 交互式解释器), 内建常用类型, 如 map, list 等, 支持闭包, call/cc 等高级特性, 可通过 call/cc 实现协程, 亦可通过闭包模拟面向对象
+\end{onehalfspacing}
+
+\datedsubsection{\textbf{Parsec}}{\url{https://github.com/MU001999/parsec}}
+\role{语法分析器组合子}{}
+\begin{onehalfspacing}
+\textbf{项目介绍: } 一个 C++ 的语法分析器组合子库, 相当于 C++ 内的 DSL, 可以与 lambda 表达式组合成实际可用的语法分析器, 应用于毕设当中
 \end{onehalfspacing}
 
 \datedsubsection{\textbf{CommonRegEx}}{\url{https://github.com/MU001999/commonregex}}
 \role{标准语法, DFA, UTF-8 特化}{}
 \begin{onehalfspacing}
-\textbf{项目介绍: } 为学习正则表达式, 使用 C++ 编写的一个正则表达式引擎, 支持标准语法以及一些扩展语法, 提供通用版本和 UTF-8 特化版本
-\end{onehalfspacing}
-
-\datedsubsection{\textbf{Yac, Yet another coroutine}}{\url{https://github.com/MU001999/yac}}
-\role{ucontext, 协程}{}
-\begin{onehalfspacing}
-\textbf{项目介绍: } C++ 实现的一个小型协程库, 使用简单, 提供 create, destroy, resume, yield 等接口
+\textbf{项目介绍: } 使用 C++ 编写的一个正则表达式引擎, 支持标准语法以及一些扩展语法, 提供 ASCII 码版本和 UTF-8 特化版本
 \end{onehalfspacing}
 
 \section{\faObjectGroup\ 合作项目}
 \datedsubsection{\textbf{Icarus}}{\url{https://github.com/Jusot/icarus}}
 \role{Socket, 并发, I/O 复用, Reactor 模型}{}
 \begin{onehalfspacing}
-\textbf{项目介绍: } 服务网络编程课设, 合作编写的一个基于 Reactor 模型的并发网络库, 封装了 TcpConnection, 提供 TcpServer 以及线程池等
+\textbf{项目介绍: } 服务网络编程课设, 合作编写的一个基于 Reactor 模型的并发网络库, 封装了 TcpConnection, 提供 TcpServer 等
 \end{onehalfspacing}
 
-\datedsubsection{\textbf{Spider Man}}{\url{https://github.com/MU001999/spiderman}}
-\role{内容抓取, 多线程, HTTP 解析, HTML 去噪}{}
+\datedsubsection{\textbf{Maaath}}{\url{https://github.com/MU001999/maaath}}
+\role{公式解析, 倒排索引, 搜索引擎, 中文分词}{}
 \begin{onehalfspacing}
-\textbf{项目介绍: } Unix/Linux 环境下基于 C++ 编写的互联网内容抓取项目, 实现多线程爬取网页, HTTP 解析以及 HTML 内容去噪分析等
+\textbf{项目介绍: } Unix/Linux 环境下使用 C++ 编写的针对教学场景的搜索引擎, 实现中文分词, 公式解析, 以及基于倒排索引的搜索引擎
 \end{onehalfspacing}
 
 % Reference Test
@@ -70,15 +70,14 @@
 \begin{itemize}[parsep=0.5ex]
   \item \textbf{编程语言}: 较为熟悉 C++, 了解并能使用其较新标准, 亦能较快熟悉其它语言进行开发
   \item \textbf{开发工具}: 掌握 Git 的使用, 熟悉版本控制以及版本管理
-  \item \textbf{编译原理}: 较为熟悉前端知识，后端优化涉及部分基础知识
-  \item \textbf{数据结构与算法}: 掌握基本数据结构与算法知识, 熟悉常见网络安全知识, 实现过 SAT 协议
+  \item \textbf{网络编程}: 熟悉基础的网络编程知识以及多线程等操作
 \end{itemize}
 
 \section{\faInfo\ 其他}
 % increase linespacing [parsep=0.5ex]
 \begin{itemize}[parsep=0.5ex]
-  \item GitHub: https://github.com/Mu001999
-  \item 博客 (基于 Flask + MongoDB 搭建): http://mu00.jusot.com
+  \item 知乎: https://zhuanlan.zhihu.com/3thinks
+  \item 博客: http://mu00.jusot.com
 \end{itemize}
 
 %% Reference
