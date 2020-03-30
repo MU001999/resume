@@ -16,18 +16,20 @@ Based on [this template](https://github.com/billryan/resume)
 
 ## Toys
 
-* [ice](https://github.com/ice-lang), contains ice-front and ice-vm
-* [blog](https://github.com/MU001999/blog), runs on [jusot.com](http://www.jusot.com)
-* [common request](https://github.com/MU001999/commonrequest)
-* [yet another coroutine](https://github.com/MU001999/yac)
+* [ice programming language](https://github.com/ice-lang), contains ice-front and ice-vm
+* [parsec](https://github/MU001999/parsec), a parser combinator library for C++
 * [common regular expression](https://github.com/MU001999/commonregex)
-* [yet another lexical analyzar](https://github.com/MU001999/yala)
 * [yet another regular expression](https://github.com/MU001999/yare), supports(spec) UTF-8
+* [yet another coroutine](https://github.com/MU001999/yac)
+* [my blog](https://github.com/MU001999/blog), runs on [jusot.com](http://www.jusot.com)
+* [common request](https://github.com/MU001999/commonrequest)
 * [ltxxx](https://github.com/MU001999/ltxxx), parser for latex math expressions (private now)
+* [hol2cpp](https:///github.com/MU001999/hol2cpp), transformation from Isabelle/HOL to C++ (private now)
 
 ## Exercises
 
 * [codeex](https://github.com/MU001999/codeex)
+* [cpptmd](https://github.com/MU001999/cpptmd)
 * [simple cdecl](https://github.com/MU001999/simple_cdecl)
 
 ## Implemented With Others
