@@ -41,9 +41,9 @@ Based on [this template](https://github.com/billryan/resume)
 ### Project For Courses
 
 * [bas](https://github.com/Jusot/bas), for *Network Programming*
-* [npcp](https://github.com/Jusot/npcp), for *Network Programming*
+* [irc](https://github.com/Jusot/npcp), for *Network Programming*
+* [set](https://github.com/Jusot/set), for *Computer Network Security*
 * [chidb](https://github.com/Jusot/chidb), for *Professional Practice*
-* [cnscp](https://github.com/Jusot/cnscp), for *Computer Network Security*
 * [maaath](https://github.com/MU001999/maaath), for *Data Structure Ⅱ*
 * [spider man](https://github.com/MU001999/spiderman), for *Programming in the UNIX Environment*
 
